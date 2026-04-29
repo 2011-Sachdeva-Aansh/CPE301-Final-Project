@@ -53,3 +53,5 @@ Implementation Notes
 - ON button uses hardware external interrupt via attachInterrupt()
 - 1-minute sensor update interval implemented using millis()
 
+Video Demo
+/////////
